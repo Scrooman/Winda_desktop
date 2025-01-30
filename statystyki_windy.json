@@ -1,1 +1,12 @@
-{"przebyta_odleglosc": 5.93845, "zaliczone_przystanki": 1264, "pokonane_pietra": 2527, "przewiezieni_pasazerowie": {"typ1": 1396, "typ2": 0, "typ3": 0}, "liczba_otworzen_drzwi": 0, "liczba_oczekujacych_pasazerow": 6}
+{
+  "liczba_oczekujacych_pasazerow": 0,
+  "liczba_otworzen_drzwi": 0,
+  "pokonane_pietra": 0,
+  "przebyta_odleglosc": 0,
+  "przewiezieni_pasazerowie": {
+    "typ1": 0,
+    "typ2": 0,
+    "typ3": 0
+  },
+  "zaliczone_przystanki": 0
+}
